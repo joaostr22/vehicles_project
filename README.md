@@ -1,1 +1,1 @@
-# vehicles_project
+Este projeto consiste em um aplicativo no Render, cujo objetivo é demonstrar as minhas habiilidades adquiridas no Sprint 5 - Ferramentas de Desenvolvimento de Software. Este aplicativo, feito com a biblioteca streamlit, faz uma análise bem breve de um conjunto de dados (vehicles.csv) sobre vendas de carros, e cria um histograma e um gráfico de densidade baseados nesses dados. Link do aplicativo: https://vehicles-project-5fto.onrender.com
